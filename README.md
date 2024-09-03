@@ -13,7 +13,7 @@ Predicted Stock Prices for the Next 6 Months: Forecast future stock prices using
 1. Clone the Repository
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/yourusername/Stock-Price-Analysis-2020-2024.git
+git clone https://github.com/HadithSalahshour/Stock-Price-Analysis-2020-2024.git
 2. Install Required Dependencies
 Ensure you have Python installed, then install the required packages using pip:
 
